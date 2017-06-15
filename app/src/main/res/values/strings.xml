@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyTaskList</string>
+    <string name="str_task_list">Task List</string>
+    <string name="str_statistics">Statistics</string>
+</resources>
